@@ -1,1 +1,1 @@
-# Mini_pro_Random_color_changer
+# Mini_project_Random_color_changer
